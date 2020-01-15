@@ -1,0 +1,11 @@
+-- this is the format for a comment
+
+-- the data format is:
+-- semester hours, letter grade, class name (optional)
+
+-- don't include any spaces around the commas: "3,A,a class" is fine, but
+-- "3, A, a class" is not.
+
+-- examples:
+4,A,My first class
+3,B-,A different class
