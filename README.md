@@ -1,10 +1,11 @@
-##General purpose GPA calculator that handles +/- grades.
+## General purpose GPA calculator that handles +/- grades.
 
 Generate a Makefile using CMake. CMake is configured to use Clang.
 Make a file in the format of `example_grades.csv` and pass it as an argument
 to the binary. The calculator will spit a cumulative GPA to stdout.
 
-##Grade points;
+| Grade | Points|
+|------|--------|
 |"A"| 4.00 |
 |"A-"| 3.67|
 |"B+"| 3.33|
